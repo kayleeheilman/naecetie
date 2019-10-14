@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eingeiphu.stroom.kr/sitemap.xml
